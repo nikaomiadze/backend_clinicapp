@@ -1,0 +1,432 @@
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\appsettings.json
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.exe
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.deps.json
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.runtimeconfig.json
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.pdb
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.AssemblyReference.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfoInputs.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfo.cs
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.CoreCompileInputs.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.clinic.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.build.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\scopedcss\bundle\clinic.styles.css
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.Up2Date
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\refint\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.pdb
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.genruntimeconfig.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\obj\Debug\net8.0\ref\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\SendGrid.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\appsettings.json
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.exe
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.deps.json
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.runtimeconfig.json
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.pdb
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\SendGrid.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.clinic.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.build.clinic.props
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.clinic.props
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.clinic.props
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\scopedcss\bundle\clinic.styles.css
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.Up2Date
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\refint\clinic.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.pdb
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\ref\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\appsettings.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.exe
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.deps.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.runtimeconfig.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.pdb
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\SendGrid.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.AssemblyReference.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfoInputs.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfo.cs
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.CoreCompileInputs.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.clinic.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.build.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\scopedcss\bundle\clinic.styles.css
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.Up2Date
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\refint\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.pdb
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.genruntimeconfig.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\ref\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\appsettings.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.exe
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.deps.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.runtimeconfig.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.pdb
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\SendGrid.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.AssemblyReference.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfoInputs.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfo.cs
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.CoreCompileInputs.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.clinic.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.build.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\scopedcss\bundle\clinic.styles.css
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.Up2Date
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\refint\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.pdb
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.genruntimeconfig.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\ref\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\appsettings.json
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.exe
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.deps.json
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.runtimeconfig.json
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.pdb
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\SendGrid.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.AssemblyReference.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfoInputs.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfo.cs
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.CoreCompileInputs.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.clinic.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.build.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\scopedcss\bundle\clinic.styles.css
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.Up2Date
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\refint\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.pdb
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.genruntimeconfig.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\ref\clinic.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\appsettings.json
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.exe
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.deps.json
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.runtimeconfig.json
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.pdb
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\SendGrid.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.clinic.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.build.clinic.props
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.clinic.props
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.clinic.props
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\scopedcss\bundle\clinic.styles.css
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.Up2Date
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\refint\clinic.dll
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.pdb
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\ref\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\appsettings.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.exe
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.deps.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.runtimeconfig.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\clinic.pdb
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\SendGrid.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.AssemblyReference.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfoInputs.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfo.cs
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.CoreCompileInputs.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.clinic.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.build.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\scopedcss\bundle\clinic.styles.css
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.Up2Date
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\refint\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.pdb
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\clinic.genruntimeconfig.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\New folder\backend\clinic\clinic\obj\Debug\net8.0\ref\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\appsettings.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.exe
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.deps.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.runtimeconfig.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\clinic.pdb
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\SendGrid.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.AssemblyReference.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfoInputs.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.AssemblyInfo.cs
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.CoreCompileInputs.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.clinic.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.build.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.clinic.props
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\scopedcss\bundle\clinic.styles.css
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.csproj.Up2Date
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\refint\clinic.dll
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.pdb
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\clinic.genruntimeconfig.cache
+C:\Users\nikoloz.omiadze\tasks\clinic\clinic\clinic\clinic\backend\clinic\clinic\obj\Debug\net8.0\ref\clinic.dll

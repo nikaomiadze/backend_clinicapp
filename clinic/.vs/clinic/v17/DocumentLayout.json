@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\auth\\jwtmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\auth\\jwtmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\pkg_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\packpages\\pkg_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\pkg_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\packpages\\pkg_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\pkg_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\packpages\\pkg_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\pkg_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\packpages\\pkg_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\pkg_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\packpages\\pkg_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PKG_DOCTOR.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\PKG_DOCTOR.cs",
+              "RelativeDocumentMoniker": "clinic\\packpages\\PKG_DOCTOR.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\PKG_DOCTOR.cs",
+              "RelativeToolTip": "clinic\\packpages\\PKG_DOCTOR.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAUwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:33:24.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PKG_USER.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\PKG_USER.cs",
+              "RelativeDocumentMoniker": "clinic\\packpages\\PKG_USER.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\PKG_USER.cs",
+              "RelativeToolTip": "clinic\\packpages\\PKG_USER.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:13:48.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JWTmanager.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\auth\\JWTmanager.cs",
+              "RelativeDocumentMoniker": "clinic\\auth\\JWTmanager.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\auth\\JWTmanager.cs",
+              "RelativeToolTip": "clinic\\auth\\JWTmanager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:18:56.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\Program.cs",
+              "RelativeDocumentMoniker": "clinic\\Program.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\Program.cs",
+              "RelativeToolTip": "clinic\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:59:11.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PKG_CATEGORY.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\PKG_CATEGORY.cs",
+              "RelativeDocumentMoniker": "clinic\\packpages\\PKG_CATEGORY.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\PKG_CATEGORY.cs",
+              "RelativeToolTip": "clinic\\packpages\\PKG_CATEGORY.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:57:24.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\models\\Doctor.cs",
+              "RelativeDocumentMoniker": "clinic\\models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\models\\Doctor.cs",
+              "RelativeToolTip": "clinic\\models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:00:14.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PKG_ADMIN.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\PKG_ADMIN.cs",
+              "RelativeDocumentMoniker": "clinic\\packpages\\PKG_ADMIN.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\PKG_ADMIN.cs",
+              "RelativeToolTip": "clinic\\packpages\\PKG_ADMIN.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowD8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:33:38.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "clinic\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "clinic\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowEoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:44:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PKG_LOGS.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\PKG_LOGS.cs",
+              "RelativeDocumentMoniker": "clinic\\packpages\\PKG_LOGS.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\packpages\\PKG_LOGS.cs",
+              "RelativeToolTip": "clinic\\packpages\\PKG_LOGS.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:08:33.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\appsettings.json",
+              "RelativeDocumentMoniker": "clinic\\appsettings.json",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\appsettings.json",
+              "RelativeToolTip": "clinic\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T06:26:03.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "clinic\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "clinic\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:57:13.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\models\\User.cs",
+              "RelativeDocumentMoniker": "clinic\\models\\User.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\models\\User.cs",
+              "RelativeToolTip": "clinic\\models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:20:14.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\models\\Category.cs",
+              "RelativeDocumentMoniker": "clinic\\models\\Category.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\models\\Category.cs",
+              "RelativeToolTip": "clinic\\models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:00:36.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "clinic\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\tasks\\clinic\\clinic\\clinic\\clinic\\backend\\clinic\\clinic\\Controllers\\UserController.cs",
+              "RelativeToolTip": "clinic\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwGcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:01:19.672Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
